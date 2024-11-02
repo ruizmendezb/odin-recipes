@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.title {
+    text-align: center;
+    background-color: #9fd4e0;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.lists {
+    text-align:left;
+}
+
+
